@@ -2,6 +2,8 @@
 
 Sistem deteksi dini kerusakan mesin berbasis **machine learning hybrid** (One-Class SVM + XGBoost), dilengkapi penjelasan **SHAP** dan saran tindakan otomatis dari **Gemini AI**. Dibangun di atas dataset AI4I 2020 Predictive Maintenance
 
+Link deployment website Streamlit (belum backend) : https://sistem-pemeliharaan-mesin-gnuaxjqqhxdtw9qgl8hwne.streamlit.app/
+
 ## ✨ Fitur Utama
 
 - **Dashboard Monitoring** – ringkasan status seluruh mesin (Normal / Warning / Critical), filter berdasarkan status dan penyebab, serta detail sensor per mesin.
